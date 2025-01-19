@@ -1,4 +1,4 @@
-import requests , colorama , json , os , socket , urllib3 , requests
+import requests , colorama , json , os , socket , urllib3
 from colorama import init ,  Fore
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
